@@ -1,23 +1,32 @@
-## 👋 Hey there! I'm Ayaan Shaikh
+# 👋 Hey there! I'm Ayaan Shaikh
 
-### 💻 Backend Developer | Continuous Learner | Project Enthusiast
+## About Me
 
-Welcome to my GitHub! I'm a mid-level backend developer with a love for crafting robust solutions and exploring the latest technologies. Here's a glimpse into my coding journey:
+I am an aspiring Backend Developer passionate for creating robust and scalable server-side solutions. I have honed my skills in Node JS, various frameworks, and database management.
 
-### 🚀 What I Do
+## Skills
 
-- 🌐 Backend Developer | Specializing in crafting scalable and efficient server-side solutions.
-- 🛠️ Tech Stack | Proficient in languages like Javascript and frameworks like Express.
-- 🚀 Project Builder | Passionate about turning ideas into functional, real-world projects.
+- **Languages:** Javascript, Typescript
+- **Frameworks:** Express JS
+- **Databases:** MongoDB, PostgreSQL, Redis
+- **API Development:** Experience in building RESTful APIs and GraphQL APIs
+- **Testing:** I have used JEST, Playwright to write test cases
 
-### 🌱 What I'm Currently Into
+## How to Connect
 
-- 📘 Learning | Always exploring new technologies, tools, and best practices in backend development.
-- 🛠️ Building | Currently working on projects that challenge and expand my coding skills.
-- 🤝 Collaboration | Open to collaborations and discussions with fellow developers.
+Feel free to reach out if you have any questions, collaborations, or just want to connect:
 
-### 📈 My GitHub Stats
+- Email: shaikhayaan740@gmail.com 📧
+- Twitter: [@IamAyaanSk](https://twitter.com/IamAyaanSk) 🐦
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamAyaanSk&show_icons=true&hide=contribs,issues&theme=radical)](https://github.com/IamAyaanSk)
+## Open Source Contributions
 
-Feel free to explore my repositories, and don't hesitate to connect! Let's build something amazing together! 🚀
+I made my first Open Source Contribution this year. Wrote some tests for FreeCodeCamp. 🚀
+
+## Blog
+
+I occasionally share my thoughts, experiences, and insights on my technical blog. Check it out [here](https://iamayaansk.hashnode.dev/) 📝.
+
+### Learning Journey
+
+I've been learning web development for 6 months now! 🌐🚀
