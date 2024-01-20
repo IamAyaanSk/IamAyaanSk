@@ -26,7 +26,3 @@ I made my first Open Source Contribution this year. Wrote some tests for FreeCod
 ## Blog
 
 I occasionally share my thoughts, experiences, and insights on my technical blog. Check it out [here](https://iamayaansk.hashnode.dev/) 📝.
-
-### Learning Journey
-
-I've been learning web development for 6 months now! 🌐🚀
