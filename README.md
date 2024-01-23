@@ -21,7 +21,7 @@ Feel free to reach out if you have any questions, collaborations, or just want t
 
 ## Open Source Contributions
 
-I made my first Open Source Contribution this year. Wrote some tests for FreeCodeCamp. 🚀
+I made my first Open Source Contribution this year (2023). Wrote some tests for FreeCodeCamp. 🚀
 
 ## Blog
 
