@@ -26,5 +26,3 @@ I made my first Open Source Contribution this year (2023). Wrote some tests for 
 ## Blog
 
 I occasionally share my thoughts, experiences, and insights on my technical blog. Check it out [here](https://iamayaansk.hashnode.dev/) 📝.
-
-[![An image of @iamayaansk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayaansk)](https://holopin.io/@iamayaansk)
