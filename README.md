@@ -2,27 +2,12 @@
 
 ## About Me
 
-I am an aspiring Backend Developer passionate for creating robust and scalable server-side solutions. I have honed my skills in Node JS, various frameworks, and database management.
+I'm a passionate software developer with over 2 years of hands-on experience in coding, debugging, and enhancing applications. You'll often find me crafting innovative solutions and exploring the latest tech trends 🚀.
 
-## Skills
+I specialize in writing high-quality code in JavaScript and TypeScript, and I frequently work with frameworks and tools like React, Next.js, Shadcn UI, TanStack and much more. I strive to build software that delivers an intuitive UI and scalable, high-performance architecture.
 
-- **Languages:** Javascript, Typescript
-- **Frameworks:** Express JS
-- **Databases:** MongoDB, PostgreSQL, Redis
-- **API Development:** Experience in building RESTful APIs and GraphQL APIs
-- **Testing:** I have used JEST, Playwright to write test cases
+My skills evolve with every project I tackle. I love solving complex challenges and delivering creative solutions that make a real impact.
 
-## How to Connect
+When I'm not coding, you'll likely find me gazing at the stars, swimming, or brainstorming my next big project ✨.
 
-Feel free to reach out if you have any questions, collaborations, or just want to connect:
-
-- Email: shaikhayaan740@gmail.com 📧
-- Twitter: [@IamAyaanSk](https://twitter.com/IamAyaanSk) 🐦
-
-## Open Source Contributions
-
-I made my first Open Source Contribution this year (2023). Wrote some tests for FreeCodeCamp. 🚀
-
-## Blog
-
-I occasionally share my thoughts, experiences, and insights on my technical blog. Check it out [here](https://iamayaansk.hashnode.dev/) 📝.
+Know more about me at [ayaan.dev](https://ayaan.dev)
